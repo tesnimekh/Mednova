@@ -12,7 +12,6 @@ Requires Node.js 20+.
 ```bash
 git clone https://github.com/tesnimekh/Mednova.git
 cd Mednova
-npm install
 npm run install:all
 cp server/.env.example server/.env   # Windows: Copy-Item server/.env.example server/.env
 npm run dev
